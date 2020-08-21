@@ -332,7 +332,7 @@ bqetl_desktop_platform:
     retries: 2
     retry_delay: 30m
 
-bqetl_telemetry_error_count_forecast:
+bqetl_telemetry_payload_parse_error_forecast:
   schedule_interval: 0 2 * * *
   default_args:
     owner: bewu@mozilla.com
