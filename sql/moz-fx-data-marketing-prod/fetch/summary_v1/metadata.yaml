@@ -1,0 +1,11 @@
+---
+friendly_name: iProspect summary load
+description: >
+  Load summary campaign data into BigQuery from GCS
+owners:
+  - bewu@mozilla.com
+labels:
+  schedule: daily
+scheduling:
+  dag_name: bqetl_iprospect_ingestion
+  arguments: ["--bucket-name moz-fx-data-marketing-prod-iprospect"]

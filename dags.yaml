@@ -419,3 +419,14 @@ bqetl_adm_engagements_daily:
     email: ['akomar@mozilla.com']
     retries: 2
     retry_delay: 30m
+
+bqetl_iprospect_ingestion:
+  schedule_interval: daily
+  description: Load iProspect data into bigquery
+  default_args:
+    owner: bewu@mozilla.com
+    start_date: '2021-03-22'
+    email:
+      - bewu@mozilla.com
+    retries: 2
+    retry_delay: 30m
