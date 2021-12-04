@@ -729,7 +729,7 @@ snowballstemmer==2.1.0 \
     --hash=sha256:b51b447bea85f9968c13b650126a888aabd4cb4463fca868ec596826325dedc2 \
     --hash=sha256:e997baa4f2e9139951b6f4c631bad912dfd3c792467e2f03d7239464af90e914
     # via pydocstyle
-sqlparse==0.4.1 \
+sqlparse==0.4.2 \
     --hash=sha256:017cde379adbd6a1f15a61873f43e8274179378e95ef3fede90b5aa64d304ed0 \
     --hash=sha256:0f91fd2e829c44362cbcfab3e9ae12e22badaa8a29ad5ff599f9ec109f0454e8
     # via -r requirements.in
@@ -813,7 +813,7 @@ ujson==4.0.2 \
     --hash=sha256:f8aded54c2bc554ce20b397f72101737dd61ee7b81c771684a7dd7805e6cca0c \
     --hash=sha256:fc51e545d65689c398161f07fd405104956ec27f22453de85898fa088b2cd4bb
     # via -r requirements.in
-urllib3==1.26.3 \
+urllib3==1.26.5 \
     --hash=sha256:1b465e494e3e0d8939b50680403e3aedaa2bc434b7d5af64dfd3c958d7f5ae80 \
     --hash=sha256:de3eedaad74a2683334e282005cd8d7f22f4d55fa690a2a1020a416cb0a47e73
     # via requests
