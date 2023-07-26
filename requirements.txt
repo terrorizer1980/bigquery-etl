@@ -34,7 +34,7 @@ cattrs==1.2.0 \
     --hash=sha256:6deb42a9166e00fe44f89cfa40ebe8d8164f31fa6001de90cced5ffac0622444 \
     --hash=sha256:daa70f0755d2e052b4854862f1c3afe2cc02d4de5f16fb72c249ac1608d2fd83
     # via -r requirements.in
-certifi==2020.12.5 \
+certifi==2023.7.22 \
     --hash=sha256:1a4995114262bffbc2413b159f2a1a480c969de6e6eb13ee966d470af86af59c \
     --hash=sha256:719a74fb9e33b9bd44cc7f3a8d94bc35e4049deebe19ba7d8e108280cfd59830
     # via requests
