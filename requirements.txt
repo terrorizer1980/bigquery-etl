@@ -225,7 +225,7 @@ googleapis-common-protos==1.53.0 \
     # via
     #   gcloud
     #   google-api-core
-grpcio==1.35.0 \
+grpcio==1.53.2 \
     --hash=sha256:0072ec4563ab4268c4c32e936955085c2d41ea175b662363496daedd2273372c \
     --hash=sha256:048c01d1eb5c2ae7cba2254b98938d2fc81f6dc10d172d9261d65266adb0fdb3 \
     --hash=sha256:088c8bea0f6b596937fefacf2c8df97712e7a3dd49496975049cc95dbf02af1a \
