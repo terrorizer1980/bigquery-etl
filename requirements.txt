@@ -813,7 +813,7 @@ ujson==4.0.2 \
     --hash=sha256:f8aded54c2bc554ce20b397f72101737dd61ee7b81c771684a7dd7805e6cca0c \
     --hash=sha256:fc51e545d65689c398161f07fd405104956ec27f22453de85898fa088b2cd4bb
     # via -r requirements.in
-urllib3==1.26.3 \
+urllib3==1.26.17 \
     --hash=sha256:1b465e494e3e0d8939b50680403e3aedaa2bc434b7d5af64dfd3c958d7f5ae80 \
     --hash=sha256:de3eedaad74a2683334e282005cd8d7f22f4d55fa690a2a1020a416cb0a47e73
     # via requests
