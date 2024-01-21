@@ -225,7 +225,7 @@ googleapis-common-protos==1.53.0 \
     # via
     #   gcloud
     #   google-api-core
-grpcio==1.35.0 \
+grpcio==1.53.2 \
     --hash=sha256:0072ec4563ab4268c4c32e936955085c2d41ea175b662363496daedd2273372c \
     --hash=sha256:048c01d1eb5c2ae7cba2254b98938d2fc81f6dc10d172d9261d65266adb0fdb3 \
     --hash=sha256:088c8bea0f6b596937fefacf2c8df97712e7a3dd49496975049cc95dbf02af1a \
@@ -478,7 +478,7 @@ pre-commit==2.10.1 \
 proto-plus==1.13.0 \
     --hash=sha256:61b57c5257ca583af2ea1ad40e2b8f251988806eea9f01d119088976b995b2c4
     # via google-cloud-bigquery
-protobuf==3.15.3 \
+protobuf==3.18.3 \
     --hash=sha256:0c678e11b7b6d6e5baa9710f44de01d48bc81b7db617ad5283a76f1f4c73df99 \
     --hash=sha256:1fe832e1a5c51c71c2d6e949e597f3c47ef39c817264086293e4037941ab9bd7 \
     --hash=sha256:21911af1fc692e7ca6a73c0fab3912a5d792ed7603350dbabd34a9722cbfe4d5 \
