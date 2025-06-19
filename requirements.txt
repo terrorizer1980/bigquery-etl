@@ -478,7 +478,7 @@ pre-commit==2.10.1 \
 proto-plus==1.13.0 \
     --hash=sha256:61b57c5257ca583af2ea1ad40e2b8f251988806eea9f01d119088976b995b2c4
     # via google-cloud-bigquery
-protobuf==3.15.3 \
+protobuf==4.25.8 \
     --hash=sha256:0c678e11b7b6d6e5baa9710f44de01d48bc81b7db617ad5283a76f1f4c73df99 \
     --hash=sha256:1fe832e1a5c51c71c2d6e949e597f3c47ef39c817264086293e4037941ab9bd7 \
     --hash=sha256:21911af1fc692e7ca6a73c0fab3912a5d792ed7603350dbabd34a9722cbfe4d5 \
@@ -813,7 +813,7 @@ ujson==4.0.2 \
     --hash=sha256:f8aded54c2bc554ce20b397f72101737dd61ee7b81c771684a7dd7805e6cca0c \
     --hash=sha256:fc51e545d65689c398161f07fd405104956ec27f22453de85898fa088b2cd4bb
     # via -r requirements.in
-urllib3==1.26.3 \
+urllib3==2.5.0 \
     --hash=sha256:1b465e494e3e0d8939b50680403e3aedaa2bc434b7d5af64dfd3c958d7f5ae80 \
     --hash=sha256:de3eedaad74a2683334e282005cd8d7f22f4d55fa690a2a1020a416cb0a47e73
     # via requests
