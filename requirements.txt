@@ -478,7 +478,7 @@ pre-commit==2.10.1 \
 proto-plus==1.13.0 \
     --hash=sha256:61b57c5257ca583af2ea1ad40e2b8f251988806eea9f01d119088976b995b2c4
     # via google-cloud-bigquery
-protobuf==3.15.3 \
+protobuf==5.29.6 \
     --hash=sha256:0c678e11b7b6d6e5baa9710f44de01d48bc81b7db617ad5283a76f1f4c73df99 \
     --hash=sha256:1fe832e1a5c51c71c2d6e949e597f3c47ef39c817264086293e4037941ab9bd7 \
     --hash=sha256:21911af1fc692e7ca6a73c0fab3912a5d792ed7603350dbabd34a9722cbfe4d5 \
